@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PenDaw
-- 👀 I’m interested in Cybersecuirty.
+- 👀 I’m interested in Cybersecurity.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects with other people that can help me learn.
 - 📫 How to reach me: my twitter is @PennWalk626
